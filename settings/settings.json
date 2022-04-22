@@ -1,0 +1,9 @@
+{
+  "next_img_index": 28,
+  "avg_mine_dia": 100,
+  "frame_size": 500,
+  "match_list": [
+    "mine",
+    "mieb"
+  ]
+}

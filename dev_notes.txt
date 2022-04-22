@@ -1,0 +1,4 @@
+TODOs:
+    network module:
+        - move IO functions to drivers module
+        - add blocking and non-blocking IO function
